@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "鏡花水月",
+  "base_artist": "まふまふ",
+  "createdAt": "2026-01-07T12:25:29.052535Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "鏡花水月",
+      "artist": "ヲタみん",
+      "has_synced": true,
+      "path": "select/01_鏡花水月_ヲタみん.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "鏡花水月",
+      "artist": "梅艷芳",
+      "has_synced": true,
+      "path": "select/02_鏡花水月_梅艷芳.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "鏡花水月",
+      "artist": "そらいろまふらー",
+      "has_synced": false,
+      "path": "select/03_鏡花水月_そらいろまふらー.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鏡花水月",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_鏡花水月_まふまふ.txt"
+    }
+  ]
+}
